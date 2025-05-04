@@ -1575,88 +1575,88 @@
    		\"/\":\" MISC : JOURNAL ////////////////////////////////////////////////\",
    
    		\"comment\":\"after caesar before receiving the call\",
-		\"JOUH01\":\"Tue 12.11.199X\",
-		\"JOUB01\":\"This evening, while I was walking home through [K]MANDRIONE[K] I was harassed by a thief who wanted my money. I already forgave him.\",	
+		\"JOUH01\":\"Ter 12.11.199X\",
+		\"JOUB01\":\"Nesta noite, enquanto eu caminhava para casa pela [K]MANDRIONE[K], fui assaltado por um ladrão que queria meu dinheiro. Já o perdoei.\",	
 		
 		\"comment\":\"after caesar after receiving the call\",
-		\"JOUH02\":\"Evening\",
-		\"JOUB02\":\"As soon as I entered my office I received a phone call by an extremely loud man who asked for my help with a demonic presence in his house. It seems that my 'get drunk and pass out' night has to wait. His address is [K]APPIA STREET[K].\",
+		\"JOUH02\":\"Noite\",
+		\"JOUB02\":\"Assim que entrei no meu escritório, recebi uma ligação de um homem extremamente alto que pediu minha ajuda com uma presença demoníaca em sua casa. Parece que minha noite de 'ficar bêbado e desmaiar' vai ter que esperar. O endereço dele é [K]APPIA STREET[K].\",
   		
   		\"comment\":\"after magdalene before dialogue\",
-  		\"JOUH03\":\"Night\",
-  		\"JOUB03\":\"Still no sleep for old Ray: my bed is occupied by... a young girl. Of COURSE I saved her from a demon, she was bloody possessed! But how did she get possessed? Where did she come from? I need to prevent any risk of an outbreak.\",
+  		\"JOUH03\":\"Noite\",
+  		\"JOUB03\":\"Ainda sem dormir para o velho Ray: minha cama está ocupada por... uma jovem. É CLARO que a salvei de um demônio, ela estava completamente possuída! Mas como ela foi possuída? De onde ela veio? Preciso evitar qualquer risco de um surto.\",
 
   		\"comment\":\"after magdalene after dialogue before godle\",
-  		\"JOUH04\":\"Night\",
-  		\"JOUB04\":\"I found a matchbook on my floor, it must have been dropped by the girl when I carried her inside... It says [K]TITUS TWISTER[K] on the back. I should look it up on my old computer.\",
+  		\"JOUH04\":\"Noite\",
+  		\"JOUB04\":\"Encontrei um porta-copos no meu chão, deve ter sido deixado pela garota quando a levei para dentro... Diz [K]TITUS TWISTER[K] na parte de trás. Eu deveria procurar isso no meu velho computador.\",
   		
   		\"comment\":\"after magdalene after dialogue after godle\",
-  		\"JOUH05\":\"Late Night\",
-  		\"JOUB05\":\"This place... The Titus Twister looks like an old strip club. I hope the girl doesn't have anything to do with that dump, but the place could still be crawling with demons. Next stop:[K]OSTIENSE AVE[K].\",
+  		\"JOUH05\":\"Madrugada\",
+  		\"JOUB05\":\"Este lugar... O Titus Twister parece um antigo clube de strip. Espero que a garota não tenha nada a ver com esse lugar, mas o local ainda pode estar infestada de demônios. Próxima parada: [K]OSTIENSE AVE[K].\",
   		
   		\"comment\":\"after matthew before dialogue\",
-  		\"JOUH06\":\"Wed 13.11.199X\",
-  		\"JOUB06\":\"I just got back into my office only to find that girl isn't going to leave so soon. I guess I could use some help with this investigation anyway, and with some cleaning...\",
+  		\"JOUH06\":\"Qua 13.11.199X\",
+  		\"JOUB06\":\"Acabei de voltar para o escritório e descobrir que a garota não vai embora tão cedo. Acho que poderia usar alguma ajuda com esta investigação de qualquer forma, e com alguma limpeza...\",
   		
   		\"comment\":\"after matthew after dialogue before archive\",
-  		\"JOUH07\":\"Afternoon\",
-  		\"JOUB07\":\"The guys in the picture Magda showed me looked really... pretentious. They're called [K]SEITAN BEASTS[K]. That reminds me I have an archive FULL of information about crazy pseudo-demonic cults. I'll give it a try.\",
+  		\"JOUH07\":\"Tarde\",
+  		\"JOUB07\":\"Os caras da foto que a Magda me mostrou pareciam realmente... pretensiosos. Eles se chamam [K]SEITAN BEASTS[K]. Isso me lembra que tenho um arquivo CHEIO de informações sobre cultos pseudo-demoníacos malucos. Vou dar uma olhada.\",
   		
   		\"comment\":\"after matthew after dialogue after archive before godle\",
-  		\"JOUH08\":\"Afternoon\",
-  		\"JOUB08\":\"A Vegan Metal band? WHAT!? I really am too old for this stuff! I hope my Holyvetti helps me in my search of these... [K]MORBID WARS[K] or I'm afraid I won't be able to track down the source of this mess.\",
+  		\"JOUH08\":\"Tarde\",
+  		\"JOUB08\":\"Uma banda de metal vegana? O QUÊ!? Eu realmente sou velho demais para isso! Espero que meu Holyvetti me ajude na minha busca por esses... [K]MORBID WARS[K], senão acho que não conseguirei rastrear a fonte dessa bagunça.\",
   		
   		\"comment\":\"after matthew after dialogue after archive after godle\",
-  		\"JOUH09\":\"Evening\",
-  		\"JOUB09\":\"It looks like I'm going to spend the night gathering intel about these... black metal vegans. I just need a pair of earplugs and I'm ready to go to [K]CASSIA LANE[K].\",
+  		\"JOUH09\":\"Noite\",
+  		\"JOUB09\":\"Parece que vou passar a noite reunindo informações sobre esses... veganos do black metal. Só preciso de um par de protetores de ouvido e estou pronto para ir para [K]CASSIA LANE[K].\",
         
         \"comment\":\"after metalhead before dialogue\",
-        \"JOUH10\":\"Thu 14.11.199X\",
-        \"JOUB10\":\"The blonde metal-fan from last night told me they gave Magda's friend to some guys from the Church. How are they involved with this? I'll need to find a convent named after a [K]Saint[K] starting with a [K]T[K]... Magda may know something about this.\",
+        \"JOUH10\":\"Qui 14.11.199X\",
+        \"JOUB10\":\"A loira fã de metal de ontem à noite me disse que deram o amigo da Magda para uns caras da Igreja. Como eles estão envolvidos nisso? Vou precisar encontrar um convento com o nome de [K]Santo[K] começando com [K]T[K]... Magda pode saber algo sobre isso.\",
         
         \"comment\":\"after metalhead after dialogue before godle\",
-        \"JOUH11\":\"Fri 15.11.199X\",
-        \"JOUB11\":\"Unbelievable: Magda told me that the [K]HOLY CHURCH[K] website has a list that could really help me out. Let's *surf the net* again and check that site.\",
+        \"JOUH11\":\"Sex 15.11.199X\",
+        \"JOUB11\":\"Inacreditável: Magda me disse que o site da [K]IGREJA SAGRADA[K] tem uma lista que poderia me ajudar muito. Vamos *navegar na internet* novamente e verificar esse site.\",
         
         \"comment\":\"after metalhead after dialogue after godle before phone\",
-        \"JOUH12\":\"Morning\",
-        \"JOUB12\":\"The Convent of St. Terentius is the name I was looking for. The only thing I could find on their site is their [K]telephone number[K] though.\", 
-
+        \"JOUH12\":\"Manhã\",
+        \"JOUB12\":\"O Convento de São Terêncio é o nome que eu procurava. A única coisa que consegui encontrar no site deles foi o [K]número de telefone[K].\",
+        
         \"comment\":\"after metalhead after dialogue after godle after phone\",
-        \"JOUH13\":\"Morning\",
-        \"JOUB13\":\"Ah! I got their address on the phone and I didn't even need to talk to anybody! How cool is that? Next stop, the Convent of St. Terentius on [K]PRENESTINA BLVD[K].\",
+        \"JOUH13\":\"Manhã\",
+        \"JOUB13\":\"Ah! Consegui o endereço pelo telefone e nem precisei falar com ninguém! Que legal! Próxima parada, o Convento de São Terêncio na [K]PRENESTINA BLVD[K].\",
         
         \"comment\":\"after nun before dungeon\",
-        \"JOUH14\":\"Noon\",
-        \"JOUB14\":\"I knew these people were shady! But a secret dungeon under the main hall of the convent!\",
-
+        \"JOUH14\":\"Meio-dia\",
+        \"JOUB14\":\"Eu sabia que essas pessoas eram suspeitas! Mas um dungeon secreto sob o salão principal do convento!\",
+        
         \"comment\":\"after nun after dungeon before furius\",
-        \"JOUH15\":\"Sat 16.11.199X\",
-        \"JOUB15\":\"I... I can't believe I found her... Lillian...\",
-
+        \"JOUH15\":\"Sab 16.11.199X\",
+        \"JOUB15\":\"Eu... Eu não posso acreditar que a encontrei... Lillian...\",
+        
         \"comment\":\"after nun after dungeon after furius before dream\",
-        \"JOUH16\":\"Mon 18.11.199X\",
-        \"JOUB16\":\"The HOLY CHURCH sent me one of their top dogs to retrieve the girl... This confirms my suspicions: they are up to something extremely dangerous\",
+        \"JOUH16\":\"Seg 18.11.199X\",
+        \"JOUB16\":\"A IGREJA SAGRADA me mandou um de seus cães de topo para recuperar a garota... Isso confirma minhas suspeitas: eles estão envolvidos em algo extremamente perigoso\",
         
         \"comment\":\"after nun after dungeon after furius after dream before termini\",
-        \"JOUH17\":\"Afternoon\",
-        \"JOUB17\":\"I literally got my ass kicked last night. A big let down for all my fans but... also huge step back for my investigation of the girl...\",
+        \"JOUH17\":\"Tarde\",
+        \"JOUB17\":\"Eu literalmente levei uma surra na noite passada. Uma grande decepção para todos os meus fãs, mas... também um grande retrocesso para minha investigação sobre a garota...\",
         
         \"comment\":\"after nun after dungeon after swiss after dream after termini\",
-		\"JOUH18\":\"Afternoon\",
-        \"JOUB18\":\"I hope the old man hasn't kicked the bucket yet. That train at [K]TERMINI STATION[K] is waiting for me.\",
+		\"JOUH18\":\"Tarde\",
+        \"JOUB18\":\"Espero que o velho não tenha batido as botas ainda. Esse trem na [K]TERMINI STATION[K] está me esperando.\",
 
         \"comment\":\"after master\",
-        \"JOUH19\":\"Tue 19.11.199X\",
-        \"JOUB19\":\"Let's shine a light on this whole story... I'll do it for my master, too. He has made a mistake but... he still deserves it.\",
+        \"JOUH19\":\"Ter 19.11.199X\",
+        \"JOUB19\":\"Vamos iluminar toda essa história... Eu farei isso pelo meu mestre também. Ele cometeu um erro, mas... ele ainda merece isso.\",
 
         \"comment\":\"after master before mail\",
-        \"JOUH20\":\"Afternoon\",
-        \"JOUB20\":\"At the moment I have no clue how to find a way into the Vatican. As usual, Magda suggests I check my computer to see if anybody tried to contact me through the VatNet...\",
-
+        \"JOUH20\":\"Tarde\",
+        \"JOUB20\":\"No momento não faço ideia de como encontrar uma forma de entrar no Vaticano. Como de costume, Magda sugere que eu verifique meu computador para ver se alguém tentou me contatar pelo VatNet...\",
+        
         \"comment\":\"after master after mail\",
-        \"JOUH21\":\"Evening\",
-        \"JOUB21\":\"I received this... fishy email talking about a secret historical passage under the [k]COLISEUM[K]. The chances this is a trap are 99%... but it's the only lead I have.\",
+        \"JOUH21\":\"Noite\",
+        \"JOUB21\":\"Recebi este... email suspeito falando sobre um segredo passageiro histórico sob o [K]COLISEU[K]. As chances de isso ser uma armadilha são 99%... mas é a única pista que eu tenho.\",
 
         \"INTERACTABLES\":\"{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}\",
 
